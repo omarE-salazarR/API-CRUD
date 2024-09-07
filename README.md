@@ -56,6 +56,6 @@ cp .env.test .env
 ```
 
 ###### postman
-La api desplegada esta relacionada en la siguiente documentación de postman
-[Documentación de API (Postman)](https://documenter.getpostman.com/view/)
-[Url de API](https://short.alertsiep.top)
+La api desplegada esta relacionada en la siguiente documentación de postman:
+API DOC: [Documentación de API (Postman)](https://documenter.getpostman.com/view/)
+API URL: [Url de API](https://short.alertsiep.top)
