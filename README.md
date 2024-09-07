@@ -23,8 +23,8 @@ Este repositorio contiene la aplicación **Acortador de URL Backend**. Utiliza e
 Clona el repositorio en tu máquina local:
 
 ```bash
-git clone https://github.com/omarE-salazarR/shorter-spot2.git
-cd shorter-spot2
+git clone https://github.com/omarE-salazarR/API-CRUD.git
+cd API-CRUD
 ```
 #### Clonar el Repositorio
 
