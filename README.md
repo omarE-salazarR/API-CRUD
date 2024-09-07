@@ -14,7 +14,7 @@
 
 ## Introducción
 
-Este repositorio contiene la aplicación **Acortador de URL Backend**. Utiliza el script `init.sh` para configurar el entorno de desarrollo, producción y pruebas de manera automatizada.
+Este repositorio contiene la aplicación **CRUD CON GPT**. Utiliza el script `init.sh` para configurar el entorno de desarrollo, producción y pruebas de manera automatizada.
 
 ## Instalación
 
